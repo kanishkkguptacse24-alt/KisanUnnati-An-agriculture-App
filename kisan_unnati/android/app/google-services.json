@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "698820407192",
+    "project_id": "kisaanunnati",
+    "storage_bucket": "kisaanunnati.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698820407192:android:8ef9ab614a6eca833f85ed",
+        "android_client_info": {
+          "package_name": "com.example.kisan_unnati"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVuUfWCA6MYNfokrtPEYiR7NKNle_xcBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
